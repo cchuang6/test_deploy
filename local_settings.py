@@ -16,7 +16,7 @@ FABRIC = {
      "GUNICORN_PORT": 8000, # Port gunicorn will listen on
      "LOCALE": "en_US.UTF-8", # Should end with ".UTF-8"
      "LIVE_HOSTNAME": "192.168.124.12", # Host for public site.
-     "REPO_URL": "git://github.com/cchuang6/test_vagrant.git", # Git or Mercurial remote repo URL for the project
+     "REPO_URL": "git://github.com/cchuang6/test_deploy.git", # Git or Mercurial remote repo URL for the project
      "DB_PASS": "password", # Live database password
      "ADMIN_PASS": "default", # Live admin user password
      "SECRET_KEY": SECRET_KEY,
