@@ -1,0 +1,2 @@
+Mezzanine
+#-e git://github.com/stephenmcd/mezzanine.git#egg=mezzanine
